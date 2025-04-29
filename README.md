@@ -1,4 +1,6 @@
 # Evo-Mark
+🌐 : https://evoludio.net/
+📌 : https://discord.evoludio.net/
 
 EN :
 Display your server name, along with the real-time time and date.
@@ -23,3 +25,5 @@ Affichage automatique de l’heure et de la date locales, toujours à jour.
 
 🔹 Ultra léger & plug-and-play
 Aucune dépendance, aucune configuration complexe. Glissez, modifiez, lancez.
+
+![image](https://github.com/user-attachments/assets/47475a34-31c9-4342-a997-49828039093d)
