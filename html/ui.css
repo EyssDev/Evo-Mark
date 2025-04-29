@@ -1,0 +1,21 @@
+.info {
+  position: absolute;
+  color: white;
+  top: 12px;
+  right: 12px;
+  font-size: 0.6em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  text-align: right;
+}
+
+.text {
+  position: absolute;
+  color: white;
+  top: 0px;
+  right: 12px;
+  font-size: 0.6em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  text-align: right;
+}
